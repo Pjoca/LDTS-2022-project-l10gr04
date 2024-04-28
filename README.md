@@ -4,7 +4,7 @@
 
 Neste trabalho pretende-se desenvolver o clássico jogo "Pong". O jogo consiste em dois paddle que se movimentam para cima ou para baixo, controlados por dois jogadores ou por um jogador e o computador, e uma bola que se movimenta livremente pelo campo de jogo e ao embater num objeto, muda a sua direção para uma direção no sentido oposto.
 
-Este projeto foi desenvolvido por *Rafael Azevedo Alves* (up202004476@fc.up.pt), *Pedro João Gonçalves Novo Paixão* (up202008467@fe.up.pt) e *João Victor Botelho Duarte* (up202102361@up.pt) para LDTS 2022/2023.
+Este projeto foi desenvolvido por *Rafael Azevedo Alves* (https://github.com/rafazalves), *Pedro João Gonçalves Novo Paixão* (https://github.com/Pjoca) e *João Victor Botelho Duarte* (https://github.com/jv-botelho) para LDTS 2022/2023.
 
 ## Gif
 
